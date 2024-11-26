@@ -1,4 +1,5 @@
 # investment_platform
 
-### `npm install`
-### `npm start`
+## How to start the project: 
+- ```npm install```
+- ```npm start```
